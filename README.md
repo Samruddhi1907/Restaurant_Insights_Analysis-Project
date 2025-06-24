@@ -49,3 +49,7 @@ Through various analytical and visualization techniques, the project yielded sev
 * **Seaborn:** For statistical data visualization.
 * **Folium:** For interactive geographical mapping.
 * **NLTK:** For basic text processing (tokenization, stop word removal) for 'Rating text' analysis.
+
+## Acknowledgements
+
+This project was completed as part of my internship experience at **Cognifyz Technologies**. I am grateful for the opportunity to apply and enhance my data analysis skills in a practical setting.
